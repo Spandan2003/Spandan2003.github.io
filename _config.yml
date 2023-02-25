@@ -2,19 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Shubham Lohiya # the website title (if blank, full name will be used instead)
-first_name: Shubham
+title: Spandan Anaokar # the website title (if blank, full name will be used instead)
+first_name: Spandan
 middle_name:
-last_name: Lohiya
-email: shubhlohiya@gatech.edu
+last_name: Anaokar
+email: 210260055@iitb.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hello There! I am Shubham Lohiya and I am a graduate student at Georgia Tech.
-  I intend to use this website to give the world a peek into my mind and to share updates about my work.
+  Hello There! I am Spandan Anaokar, an undergraduate student at Indian Institute of Technology, Bombay. This website is to get people to know me and my work.
 footer_text: >
   Powered by the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 # icon: 🔥 # the emoji used as the favicon
-url: https://shubhlohiya.github.io # the base hostname & protocol for your site
+url: https://spandan2003.github.io/ # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -48,11 +47,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: shubhlohiya
-stackoverflow_username: 16009704/shubham
+github_username: Spandan2003
+stackoverflow_username: 
 gitlab_username: # your GitLab user name
-twitter_username: shubhlohiya
-linkedin_username: lohiya-shubham
+twitter_username: 
+linkedin_username: spandan-anaokar-043918251
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
