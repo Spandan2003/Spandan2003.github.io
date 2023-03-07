@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: prof_pic.jpeg
+  image: prof_pic.png
   address:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -16,6 +16,8 @@ social: false # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I am an undergraduate student at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/). I am currently doing a BTech in Engineering Physics, a very research-oriented branch. I am highly interested in Thoreotical Research and cracking tricky problems. .<br> 
+I am an undergraduate student at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/). I am currently doing a BTech in Engineering Physics, a very research-oriented branch. I am highly interested in Thoreotical Research and cracking tricky problems.<br> 
 
-I am presently doing a Minor in Computer Science that has ignited my passion towards research in Computer Science. My strong interest in Computer Science is what compelled me to make this website as a way to get people to know me. My current interests are in the field of Logic and Automata Theory and mostly Formal Verification. I have done a course on Logic([CS228](/courses)) which teaches the common logic used like FO, MSO and LTL. Currently, I am doing another course as a sit-through([CS719](/courses)) which contains an algebraic approach to formal verification using set theory in general. 
+I am doing a Minor in Computer Science. I am interested in a vide variety of topics. Presently, I am most interested in the area of Formal Verification. I have studied Logic and Automata Theory learning multiple logics like FO, MSO, LTL and DFA's and $\omega$-Automata using Büchi Acceptance Condition, and smart use of 2-player games to prove Closure of complement of NFA's. I am also learning an algebric approach to Automata Theory using Semigroups, Monoids and Set Theory.
+
+Here are the links to the [courses](/courses) I have taken and [Projects](/projects) I have done
