@@ -16,8 +16,7 @@
     src: /assets/img/project/raga.png
     alt: 
   date: January '22 - April '22
-  description: Developed a bubble shooter game using Simplecpp graphics consisting of 10 levels which involve bubbles that bounce
-off walls, and take a health point from the shooter on hitting him while making him immune to damage for a short time
+  description: Developed a bubble shooter game using Simplecpp graphics consisting of 10 levels which involve bubbles that bounce off walls, and take a health point from the shooter on hitting him while making him immune to damage for a short time
   links:
     code: https://github.com/Spandan2003/bubble-trouble-game
     demo: https://drive.google.com/file/d/17BxwFY5zTTLDf0hnZ8Dw4uV-1cVjhL-8/view?usp=sharing
