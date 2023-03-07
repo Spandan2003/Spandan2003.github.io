@@ -10,9 +10,8 @@ navpos: 3
 #### Courses Taken
 <br>
 <div class="courses">
-  <div class="courses-item vertical-center-text">
     <p class="courses-text">
-      <strong>CS719: Topics in Mathematical Foundations of Formal Verification</strong> | <i>by Prof. Bharat Asdul, IITB</i> <br/>
+      <strong>CS719: Topics in Mathematical Foundations of Formal Verification</strong> | <i>by Prof. Bharat Adsul, IITB</i> <br/>
     <div class="courses-bubble-with-date">
       <h6>January '23 - April '23</h6>
     </div>  
@@ -23,7 +22,4 @@ navpos: 3
       </ul>
     </p>
     <br>
-  </div>
-
-
 </div>
