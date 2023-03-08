@@ -1,6 +1,6 @@
 - title: Automated Nano-Optical Measurement
   image:
-    src: /assets/img/project/raga.png
+    src: /assets/img/project/automation.jpg
     alt: 
   date: July '22 - Present
   description: Coded in Python an algorithm to automatically take in Intensity data for a predefined set of points by simultaneous use of Andor Spectrometer and Nanomax stage.
@@ -13,7 +13,7 @@
 
 - title: Bubble Trouble Game Development
   image:
-    src: /assets/img/project/raga.png
+    src: /assets/img/project/bubbleshooter.png
     alt: 
   date: January '22 - April '22
   description: Developed a bubble shooter game using Simplecpp graphics consisting of 10 levels which involve bubbles that bounce off walls, and take a health point from the shooter on hitting him while making him immune to damage for a short time
