@@ -24,7 +24,6 @@ navpos: 3
     <br>
 </div>
 
-<br>
 <div class="courses">
     <p class="courses-text">
       <strong>CS213: Data Structure and Algorithms</strong> | <i>by Prof. Milind Sohoni, IITB</i> <br/>
