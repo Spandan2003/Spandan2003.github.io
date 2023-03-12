@@ -16,8 +16,10 @@ social: false # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I am an undergraduate student at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/). I am currently doing a BTech in Engineering Physics, a very research-oriented branch. I am highly interested in Thoreotical Research and cracking tricky problems.<br> 
+I am an undergraduate student at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/), currently doing a BTech in Engineering Physics, a very research-oriented branch. Love learning new things and using innovative logic to solve stuff. At the start of my 2nd year my interests took a gigantic leap from Physics to Thereotical Computer Science and Formal Verification. So puttting a lot of efforts and really enjoying studying right now.
 
-I am doing a Minor in Computer Science. I am interested in a vide variety of topics. Presently, I am most interested in the area of Formal Verification. I have studied Logic and Automata Theory learning multiple logics like FO, MSO, LTL and DFA's and $\omega$-Automata using Büchi Acceptance Condition, and smart use of 2-player games to prove Closure of complement of NFA's. I am also learning an algebric approach to Automata Theory using Semigroups, Monoids and Set Theory.
+My Minor is in Computer Science so doing loads of CS courses. I am a an avid reader(read Harry Potter series 10 times over) and love watching anime and stuff. Playing games and listening to music is my relaxation. Mystery and Crime is where I would go if I didn't do Engineering. I mean a Detective not you-know-what.
 
-Here are the links to the [courses](/courses) I have taken and [Projects](/projects) I have done
+Here are the links to the [Courses](/courses) I have taken and [Projects](/projects) I have done. You can contact me by clicking on the icons at the top of the page.
+
+> “I’d rather regret the things I’ve done than regret the things I haven’t done.” —Lucille Ball
