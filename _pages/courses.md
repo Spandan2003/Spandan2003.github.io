@@ -7,7 +7,7 @@ nav: True
 navpos: 3
 ---
 
-#### Courses Taken
+#### Institute Courses
 <br>
 <div class="courses">
     <p class="courses-text">
@@ -63,6 +63,52 @@ navpos: 3
         <li>Basics of programming in C++, starting with variables, condtional statements, loops</li>
         <li>Learn about arrays, strings and other data types</li>
         <li>Pointers, Functions, Classes and Objects in order to grasp a basic knowledge of programming</li>
+     </ul>
+    </p>
+    <br>
+</div>
+
+#### Other Courses
+<div class="courses">
+    <p class="courses-text">
+      <strong>Introduction to Cybersecurity</strong> | <i>by CyberSecurity Club, IITB</i> <br/>
+    <div class="courses-bubble-with-date">
+      <h6>Jan '22 - December '22</h6>
+    </div>  
+    <ul>
+        <li>Basics of hacking: Python, Linux, C and bit of Assembly</li>
+        <li>Cryptography: Classical and Modern Crypto inlcuding Advanced Encryption Standard and Diffie-Hellman Key Exchange</li>
+        <li>Forensics: Stenanography, Image Forensics and Network Forensics</li>
+     </ul>
+    </p>
+    <br>
+</div>
+
+<div class="courses">
+    <p class="courses-text">
+      <strong>Introduction to Cybersecurity</strong> | <i>by CyberSecurity Club, IITB</i> <br/>
+    <div class="courses-bubble-with-date">
+      <h6>Jan '22 - December '22</h6>
+    </div>  
+    <ul>
+        <li>Basics of hacking: Python, Linux, C and bit of Assembly</li>
+        <li>Cryptography: Classical and Modern Crypto inlcuding Advanced Encryption Standard and Diffie-Hellman Key Exchange</li>
+        <li>Forensics: Stenanography, Image Forensics and Network Forensics</li>
+     </ul>
+    </p>
+    <br>
+</div>
+
+<div class="courses">
+    <p class="courses-text">
+      <strong>Winter in Data Science</strong> | <i>by Analytics Club, IITB</i> <br/>
+    <div class="courses-bubble-with-date">
+      <h6>December '22</h6>
+    </div>  
+    <ul>
+        <li>Leant the basics of Data Science: Exploratory Data Analysis, Supervised Learing Algorithms</li>
+        <li>Model making, Regression, Tree and Forest Classification</li>
+        <li>Natural Language Processing and Neural Networks</li>
      </ul>
     </p>
     <br>
