@@ -19,6 +19,18 @@
   description: Developed a bubble shooter game using Simplecpp graphics consisting of 10 levels which involve bubbles that bounce off walls, and take a health point from the shooter on hitting him while making him immune to damage for a short time
   links:
     code: https://github.com/Spandan2003/bubble-trouble-game
+    demo: /assets/img/project/bubble_vid.mp4
+    blog: 
+    report:
+
+- title: Python Tic Tac Toe AI Game using PyGame
+  image:
+    src: /assets/img/project/tictactoe.png
+    alt: 
+  date: May '22
+  description: Developed a GUI Tic-Tac-Toe game which plays with the user using an AI.
+  links:
+    code: https://github.com/Spandan2003/tic-tac-toe-game
     demo: https://drive.google.com/file/d/17BxwFY5zTTLDf0hnZ8Dw4uV-1cVjhL-8/view?usp=sharing
     blog: 
     report:
