@@ -67,7 +67,8 @@ navpos: 3
     </p>
     <br>
 </div>
-
+<br>
+<br>
 #### Other Courses
 <div class="courses">
     <p class="courses-text">
