@@ -17,7 +17,10 @@ social: false # includes social icons at the bottom of the page
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
 I am an 2<sup>nd</sup> year undergraduate student at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/), currently doing a BTech in Engineering Physics, a very research-oriented branch. I love learning new things and using innovative logic to solve stuff.
-<br>
+
+
+
+
 At the start of my 2<sup>nd</sup> year, I got equally interested in Thereotical Computer Science and Formal Verification. My Minor is in Computer Science and so am doing loads of CS courses. I am putting a lot of efforts in this subject and greatly enjoying it right now.
 
 I am an avid reader (read Harry Potter series 10 times over) and love watching anime and stuff. Playing games and listening to music is my relaxation. Mystery and Crime is where I would go if I didn't do Engineering(I meant a Detective).
