@@ -16,7 +16,9 @@ social: false # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I am an undergraduate student at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/), currently doing a BTech in Engineering Physics, a very research-oriented branch. Love learning new things and using innovative logic to solve stuff. At the start of my 2nd year my interests took a gigantic leap from Physics to Thereotical Computer Science and Formal Verification. So puttting a lot of efforts and really enjoying studying right now.
+I am an undergraduate student at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/), currently doing a BTech in Engineering Physics, a very research-oriented branch. Love learning new things and using innovative logic to solve stuff.
+
+At the start of my 2nd year my interests took a gigantic leap from Physics to Thereotical Computer Science and Formal Verification. So puttting a lot of efforts and really enjoying studying right now.
 
 My Minor is in Computer Science so doing loads of CS courses. I am  an avid reader (read Harry Potter series 10 times over) and love watching anime and stuff. Playing games and listening to music is my relaxation. Mystery and Crime is where I would go if I didn't do Engineering. I meant a Detectivet.
 
