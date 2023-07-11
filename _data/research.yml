@@ -1,1 +1,13 @@
+- title: Automated Nano-Optical Measurement
+  guide: <a href="https://loqm.tech/anshuman/">Prof. Anshuman Kumar</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
+  image:
+    src: /assets/img/research/automation.jpg
+    alt: 
+  date: July '22 - April '23
+  description: Python-based automation of optical photoluminescence spectrometric data collection in quantum physics experiments, utilizing communication with a spectrometer and a motorized stage for efficient and time-saving data acquisition.
+  links:
+    code: https://github.com/Spandan2003/Automating-Nano-Optical-Measurements
+    demo: /assets/pdf/research/automation_ppt.pptx
+    blog: 
+    report: /assets/pdf/research/automation_report.pdf
 
