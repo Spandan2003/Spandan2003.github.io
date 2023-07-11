@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <th>July 2022</th>
-    <td>Selected for SURP(<span style="font-size: 20px;">Summer Undergraduate Research Program</span>) where I started working under </a href="https://loqm.tech/anshuman/">Prof. Anshuman Kumar</a></td>
+    <td>Selected for SURP(<span style="font-size: 5px;">Summer Undergraduate Research Program</span>) where I started working under [Prof. Anshuman Kumar](https://loqm.tech/anshuman/)</td>
   </tr>
   <tr>
     <th>Summer 2022</th>
@@ -40,13 +40,13 @@
   </tr>
   <tr>
     <th>Summer 2022</th>
-    <td>Completed a reading project involving Einstein's Theory of Relativity through Summer of Science, Maths and Physics Club</a></td>
+    <td>Completed a reading project involving Einstein's Theory of Relativity through Summer of Science, Maths and Physics Club</td>
   <tr>
     <th>April 2022</th>
     <td>Completed Bubble Trouble, a game developed using C++ which was a modification of the classic bubble shooting game</td>
   </tr>
   </tr>
-    <tr>
+  <tr>
     <th>January 2022</th>
     <td>Started a year long Year of Security Course by the CyberSecurity Club</td>
   </tr>
