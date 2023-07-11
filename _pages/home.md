@@ -40,7 +40,7 @@ My research interests lie in the exciting domain of Machine Learning and Artific
 <br><br>
 
 <h4>Experience</h4>
-Check out my <a href="{{ 'CV' | relative_url }}">Resume and CV</a> and <a href="{{ 'projects' | relative_url }}">research and other key projects</a>, and my . 
+Check out my <a href="{{ 'CV' | relative_url }}">Resume and CV</a> and <a href="{{ 'projects' | relative_url }}">research and other key projects</a>.. 
 <br><br>
 
 
@@ -50,7 +50,7 @@ Check out my <a href="{{ 'CV' | relative_url }}">Resume and CV</a> and <a href="
 
   <div class="work-item">
     <div class="work-bubble-with-date">
-      <img src="/assets/img/teaching/ph112.jpg" class="work-bubble" />
+      <img src="/assets/img/teaching/ph112.png" class="work-bubble" />
     </div>
     <p class="work-text">
       <strong>Undergraduate Teaching Assistant | IIT Bombay</strong> <br/>
@@ -61,7 +61,7 @@ Check out my <a href="{{ 'CV' | relative_url }}">Resume and CV</a> and <a href="
   </div>
   div class="work-item">
     <div class="work-bubble-with-date">
-      <img src="/assets/img/teaching/ma108.jpg.jpg" class="work-bubble" />
+      <img src="/assets/img/teaching/ma108.jpg" class="work-bubble" />
     </div>
     <p class="work-text">
       <strong>Undergraduate Teaching Assistant | IIT Bombay</strong> <br/>
