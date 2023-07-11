@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <th>July 2022</th>
-    <td>Selected for SURP(<span style="font-size: 5px;">Summer Undergraduate Research Program</span>) where I started working under [Prof. Anshuman Kumar](https://loqm.tech/anshuman/)</td>
+    <td>Selected for SURP(<span style="font-size: 12px;">Summer Undergraduate Research Program</span>) where I started working under <a href="https://loqm.tech/anshuman/">Prof. Anshuman Kumar</a></td>
   </tr>
   <tr>
     <th>Summer 2022</th>
