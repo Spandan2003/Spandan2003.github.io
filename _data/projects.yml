@@ -1,27 +1,27 @@
-- title: Automated Nano-Optical Measurement
-  image:
-    src: /assets/img/project/automation.jpg
-    alt: 
-  date: July '22 - Present
-  description: Coded in Python an algorithm to automatically take in Intensity data for a predefined set of points by simultaneous use of Andor Spectrometer and Nanomax stage.
-              Additional functions enable collect specific data and other miscellaneous tasks.
-  links:
-    code:
-    demo: 
-    blog: 
-    report:
 
-- title: Bubble Trouble Game Development
+- title: Elevator Control System using FPGA
   image:
-    src: /assets/img/project/bubbleshooter.png
+    src: /assets/img/project/EE224.png
     alt: 
-  date: January '22 - April '22
-  description: Developed a bubble shooter game using Simplecpp graphics consisting of 10 levels which involve bubbles that bounce off walls, and take a health point from the shooter on hitting him while making him immune to damage for a short time
+  date: January '23 - April '23
+  description: Designing an elevator control system which relies on hard coding to give us the optimal path of the elevator.
+  links: 
+    code: 
+    demo: /assets/img/project/EE224.mp4
+    model: https://circuitverse.org/users/174878/projects/elevator-82124d01-db64-422b-ae44-1a3ed5a752ea 
+    report: /assets/pdf/project/PH567.pdf
+
+- title: Analysis of dynamics of regulatory and signaling pathways in the cell
+  image:
+    src: /assets/img/project/PH567.png
+    alt: 
+  date: January '23 - April '23
+  description: Analysis how signal transmission and response occurs in the cell using feedforward and feedback signals represented by Non Linear Dynamics
   links:
-    code: https://github.com/Spandan2003/bubble-trouble-game
-    demo: /assets/img/project/bubble_vid.mp4
+    code: 
+    demo:
     blog: 
-    report:
+    report: /assets/pdf/project/PH567.pdf
 
 - title: Python Tic Tac Toe AI Game using PyGame
   image:
@@ -32,5 +32,17 @@
   links:
     code: https://github.com/Spandan2003/tic-tac-toe-game
     demo: /assets/img/project/tictactoe_video.mp4
+    blog: 
+    report:
+
+- title: Bubble Trouble Game Development  
+  image:
+    src: /assets/img/project/bubbleshooter.png
+    alt: 
+  date: January '22 - April '22
+  description: Developed a bubble shooter game using Simplecpp graphics consisting of 10 levels which involve bubbles that bounce off walls, and take a health point from the shooter on hitting him while making him immune to damage for a short time
+  links:
+    code: https://github.com/Spandan2003/bubble-trouble-game
+    demo: /assets/img/project/bubble_vid.mp4
     blog: 
     report:
