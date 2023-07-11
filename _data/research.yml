@@ -6,7 +6,7 @@ title: Automated Nano-Optical Measurement
   date: July '22 - April '23
   description: Python-based automation of optical photoluminescence spectrometric data collection in quantum physics experiments, utilizing communication with a spectrometer and a motorized stage for efficient and time-saving data acquisition.
   links:
-    code: https://github.com/Spandan2003/Automating-Nano-Optical-Measurements
+    code: 
     demo: /assets/pdf/research/automation_ppt.pptx
     blog: 
     report: /assets/pdf/research/automation_report.pdf
