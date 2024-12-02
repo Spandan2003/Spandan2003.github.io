@@ -1,3 +1,14 @@
+- title: Elevator Control System using FPGA
+  image:
+    src: /assets/img/project/EE224.png
+    alt: 
+  date: January '23 - April '23
+  description: Designing an elevator control system which relies on hard coding to give us the optimal path of the elevator.
+  links: 
+    code: 
+    demo: /assets/img/project/EE224.mp4
+    model: https://circuitverse.org/users/174878/projects/elevator-82124d01-db64-422b-ae44-1a3ed5a752ea 
+    report: /assets/pdf/project/PH567.pdf
 
 - title: Elevator Control System using FPGA
   image:
