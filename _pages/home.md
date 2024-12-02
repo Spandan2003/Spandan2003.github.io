@@ -73,7 +73,7 @@ Check out my <a href="{{ 'CV' | relative_url }}">Resume and CV</a> and <a href="
   </div>
   <div class="work-item">
     <div class="work-bubble-with-date">
-      <img src="/assets/img/teaching/cs626.jpg" class="work-bubble" />
+      <img src="/assets/img/teaching/cs626.jpeg" class="work-bubble" />
     </div>
     <p class="work-text">
       <strong>Teaching Assistant | IIT Bombay</strong> <br/>
