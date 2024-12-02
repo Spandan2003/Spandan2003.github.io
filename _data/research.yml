@@ -4,8 +4,7 @@
     src: /assets/img/research/matformer.png
     alt: 
   date: November '24 - Present
-  description: Conducting research on the Matformer architecture for Vision Transformers, optimizing long-tail image classification
-and improving Mean Average Precision (MaP) through experimentation with multiple architectural variations
+  description: Conducting research on the Matformer architecture for Vision Transformers, optimizing long-tail image classification and improving Mean Average Precision (MaP) through experimentation with multiple architectural variations
   links:
     code: 
     demo: 
