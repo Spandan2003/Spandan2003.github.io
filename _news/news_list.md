@@ -3,28 +3,52 @@
 
 <table>
   <tr>
-    <th>Summer 2023</th>
-    <td>Completed a Neural Style Transfer Architecture as a project under the Institute Technical Council</td>
+    <th>November 2024</th>
+    <td>Developed a JPEG Image Compression algorithm using DCT for a Digital Image Processing course project</td>
   </tr>
   <tr>
+    <th>July 2024</th>
+    <td>Completed a research internship at Microsoft IDC, developed a local Agentic LLM framework for anomaly detection and device-specific recommendation systems</td>
+  </tr>
+  <tr>
+    <th>May 2024</th>
+    <td>Awarded the Undergraduate Research Award for exceptional contributions to Computer Science research at IIT Bombay</td>
+  </tr>
+  <tr>
+    <th>August 2023</th>
+    <td>Co-founded NeuralThread.AI, raised $62,000 in funding, and led the development of Generative AI solutions for marketing automation</td>
+  </tr>
+  <tr>
+    <th>July 2023</th>
+    <td>Developed a Chess Engine inspired by the Giraffe research paper for Seasons of Coding, combining deep learning and Alpha-Beta Pruning</td>
+  </tr>
+  <tr>
+    <th>Summer 2023</th>
+    <td>Completed VanGoghAi Project involving style combination of images (Neural Style Transfer) under the Institute Technical Council</td>
+  </tr>
+  <!-- <tr>
     <th>Summer 2023</th>
     <td>Completed a Reading Project involving Deep Learning and Neural Network through Summer of Science, Maths and Physics Club.</td>
-  </tr>
+  </tr> -->
   <tr>
     <th>Summer 2023</th>
-    <td>Completed a Project involving implementation of a Chess Engine based on a recent Research Paper through Seasons of Coding, Web and Coding Club</td>
+    <td>Developed a Chess Engine inspired by the Giraffe research paper for Seasons of Coding, combining deep learning and Alpha-Beta Pruning</td>
   </tr>
   <tr>
     <th>May 2023</th>
-    <td>Appointed as Teaching Assistant for 2 first-year courses PH112:Intro to Quantum Physics and MA108: Differential Equations</td>
+    <td>Worked as Teaching Assistant for 2 first-year courses PH112:Intro to Quantum Physics and MA108: Differential Equations</td>
+  </tr>
+  <tr>
+    <th>April 2023</th>
+    <td>Completed the Automated nano-optical measurements Project to enhance nanostructure analysis by using python to integrate independent systems</td>
   </tr>
   <tr>
     <th>March 2023</th>
     <td>Completed a Elevator Contol System Project using FGPA Programming</td>
   </tr>
   <tr>
-    <th>Winter 2022</th>
-    <td>Attended the Winter of Data Science bootcamp by the Analytics Club and was selected for the Intro to AI Project. </td>
+    <th>December 2022</th>
+    <td>Attended the Winter of Data Science bootcamp by the Analytics Club and was introduced to ML with help of the Makemore project. </td>
   </tr>
   <tr>
     <th>October 2022</th>
@@ -34,12 +58,12 @@
     <th>July 2022</th>
     <td>Selected for SURP(<span style="font-size: 12px;">Summer Undergraduate Research Program</span>) where I started working under <a href="https://loqm.tech/anshuman/">Prof. Anshuman Kumar</a></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <th>Summer 2022</th>
     <td>Completed a learning project involving Data Structures and Algorithms through Seasons of Coding, Web and Coding Club</td>
-  </tr>
+  </tr> -->
   <tr>
-    <th>Summer 2022</th>
+    <th>May 2022</th>
     <td>Completed a reading project involving Einstein's Theory of Relativity through Summer of Science, Maths and Physics Club</td>
   <tr>
     <th>April 2022</th>

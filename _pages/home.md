@@ -48,7 +48,17 @@ Check out my <a href="{{ 'CV' | relative_url }}">Resume and CV</a> and <a href="
 <h4>Teaching Responsibilities and Service</h4>
 <br>
 <div class="work">
-
+  <div class="work-item">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/teaching/cs626.jpeg" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong>Teaching Assistant | IIT Bombay</strong> <br/>
+      <span style="font-size: 0.9rem">
+       CS626: Speech, NLP and the Web, Autumn 2024 <br>
+       </span>
+    </p>
+  </div>
   <div class="work-item">
     <div class="work-bubble-with-date">
       <img src="/assets/img/teaching/ph112.png" class="work-bubble" />
@@ -68,17 +78,6 @@ Check out my <a href="{{ 'CV' | relative_url }}">Resume and CV</a> and <a href="
       <strong>Teaching Assistant | IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
        MA108: Differential Equations I, Spring 2023 <br>
-       </span>
-    </p>
-  </div>
-  <div class="work-item">
-    <div class="work-bubble-with-date">
-      <img src="/assets/img/teaching/cs626.jpeg" class="work-bubble" />
-    </div>
-    <p class="work-text">
-      <strong>Teaching Assistant | IIT Bombay</strong> <br/>
-      <span style="font-size: 0.9rem">
-       CS626: Speech, NLP and the Web, Autumn 2024 <br>
        </span>
     </p>
   </div>

@@ -32,7 +32,7 @@
   date: May '24 - August '24
   description: Researched the effects of noise injection on sequential models like Transformers and LSTMs, developing a modified gradient descent algorithm to improve training stability. This work enhanced model accuracy, robustness, and generalization in NLP tasks, enabling faster convergence and better performance in diverse applications.
   links:
-    code: 
+    code: https://github.com/Nahush-27/Effect-of-Noise-Injection-in-Sequential-models
     demo: 
     blog: 
     report: /assets/pdf/research/noiseinject.pdf

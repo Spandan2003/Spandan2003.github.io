@@ -70,20 +70,6 @@ navpos: 3
 <br>
 <br>
 #### Other Courses
-<div class="courses">
-    <p class="courses-text">
-      <strong>Introduction to Cybersecurity</strong> | <i>by CyberSecurity Club, IITB</i> <br/>
-    <div class="courses-bubble-with-date">
-      <h6>Jan '22 - December '22</h6>
-    </div>  
-    <ul>
-        <li>Basics of hacking: Python, Linux, C and bit of Assembly</li>
-        <li>Cryptography: Classical and Modern Crypto inlcuding Advanced Encryption Standard and Diffie-Hellman Key Exchange</li>
-        <li>Forensics: Stenanography, Image Forensics and Network Forensics</li>
-     </ul>
-    </p>
-    <br>
-</div>
 
 <div class="courses">
     <p class="courses-text">
