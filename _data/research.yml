@@ -22,7 +22,7 @@
     code:
     demo: www.cfilt.iitb.ac.in/consumer_chatbot
     blog: 
-    report: chatbot.pdf
+    report: /assets/pdf/research/chatbot.pdf
 
 - title: Noise Injection in Sequential Models
   guide: <a href="https://www.cse.iitb.ac.in/~ganesh/">Prof. Ganesh Ramakrishnan</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
