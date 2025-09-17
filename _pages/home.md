@@ -14,17 +14,17 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <!-- <br> -->
-<span style="font-weight:500; font-size: 25px" > Welcome to my AI/ML Journey!</span>
+<span style="font-weight:500; font-size: 25px"> Welcome to my AI/ML Journey! </span>
 
+Hi, I’m Spandan Anaokar. I grew up in India with an endless curiosity for how things work, which led me to study Engineering Physics at IIT Bombay and eventually pursue a Master’s in Machine Learning at Carnegie Mellon University. Along the way, I discovered my fascination for Artificial Intelligence — not just as a field of study, but as a way of thinking about problems, systems, and even people.
 
-I am Spandan Anaokar, a fourth-year student in the Engineering Physics Department at [IIT Bombay](www.iitb.ac.in), with a strong passion for the fascinating world of Artificial Intelligence and Machine Learning. Throughout my academic journey, I have been captivated by the potential of AI/ML to revolutionize industries and solve complex problems. With a current CGPA of 9.5, I strive for excellence in my academic pursuits and am eager to expand my knowledge in this rapidly evolving field.
+Outside academics, I’ve always tried to keep life colorful. I enjoy the quiet intensity of chess, the thrill of basketball games, the escapism of thriller novels, and the imagination of anime. These interests keep me grounded and creative, reminding me that learning doesn’t only happen in classrooms or labs.
 
-On this website, I invite you to join me on my journey as I delve deeper into the realms of AI and ML. Explore my projects, research interests, and insights gained through coursework and independent explorations. Together, let's unravel complex algorithms, extract meaningful insights from data, and contribute to the ever-growing field of AI.
+This site is a little window into my journey — the projects I’ve worked on, the ideas I’m exploring, and the things that inspire me. Thanks for stopping by, and I hope you enjoy looking around.
 
 
 > “I’d rather regret the things I’ve done than regret the things I haven’t done.” —Lucille Ball
 
-PS: Apart from acads, I am also interested in Thriller Books, Chess and Basketball. 
 <br><br>
 
 <h4>Updates</h4>
@@ -48,6 +48,17 @@ Check out my <a href="{{ 'CV' | relative_url }}">Resume and CV</a> and <a href="
 <h4>Teaching Responsibilities and Service</h4>
 <br>
 <div class="work">
+  <div class="work-item">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/teaching/cs769.png" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong>Teaching Assistant | IIT Bombay</strong> <br/>
+      <span style="font-size: 0.9rem">
+       CS769: Optimization in ML, Spring 2024 <br>
+       </span>
+    </p>
+  </div>
   <div class="work-item">
     <div class="work-bubble-with-date">
       <img src="/assets/img/teaching/cs626.jpeg" class="work-bubble" />

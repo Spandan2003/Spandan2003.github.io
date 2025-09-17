@@ -3,6 +3,18 @@
 
 <table>
   <tr>
+    <th>August 2025</th>
+    <td>Started my Masters in Machine Learning degree at <a href="https://www.cmu.edu/">Carnegie Mellon University</a></td>
+  </tr>Mrs. Charusheela Dange Award 
+  <tr>
+    <th>August 2025</th>
+    <td>Graduated from IIT Bombay with a BTech in Engineering Physics with double minors in Computer Science and AI/Data Science. Also received the Mrs. Charusheela Dange Award for securing 3rd place in department</td>
+  </tr>
+  <tr>
+    <th>April 2025</th>
+    <td>Worked as a Teaching Assistant for CS 769: Optimization in ML, a graduate level ML course</td>
+  </tr>
+  <tr>
     <th>November 2024</th>
     <td>Developed a JPEG Image Compression algorithm using DCT for a Digital Image Processing course project</td>
   </tr>

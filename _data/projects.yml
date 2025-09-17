@@ -58,18 +58,6 @@
     model: https://circuitverse.org/users/174878/projects/elevator-82124d01-db64-422b-ae44-1a3ed5a752ea 
     report: /assets/pdf/project/PH567.pdf
 
-- title: Analysis of dynamics of regulatory and signaling pathways in the cell
-  image:
-    src: /assets/img/project/PH567.png
-    alt: 
-  date: January '23 - April '23
-  description: Analysis how signal transmission and response occurs in the cell using feedforward and feedback signals represented by Non Linear Dynamics
-  links:
-    code: 
-    demo:
-    blog: 
-    report: /assets/pdf/project/PH567.pdf
-
 - title: Python Tic Tac Toe AI Game using PyGame
   image:
     src: /assets/img/project/tictactoe.png
@@ -93,3 +81,15 @@
     demo: /assets/img/project/bubble_vid.mp4
     blog: 
     report:
+
+- title: Analysis of dynamics of regulatory and signaling pathways in the cell
+  image:
+    src: /assets/img/project/PH567.png
+    alt: 
+  date: January '23 - April '23
+  description: Analysis how signal transmission and response occurs in the cell using feedforward and feedback signals represented by Non Linear Dynamics
+  links:
+    code: 
+    demo:
+    blog: 
+    report: /assets/pdf/project/PH567.pdf

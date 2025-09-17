@@ -3,7 +3,7 @@
   image:
     src: /assets/img/research/matformer.png
     alt: 
-  date: November '24 - Present
+  date: November '24 - March '25
   description: Conducting research on the Matformer architecture for Vision Transformers, optimizing long-tail image classification and improving Mean Average Precision (MaP) through experimentation with multiple architectural variations
   links:
     code: 
@@ -16,7 +16,7 @@
   image:
     src: /assets/img/research/legalllm.png
     alt: 
-  date: July '24 - Present
+  date: July '24 - May '25
   description: Developed a high-precision legal advisory chatbot to provide accurate answers while addressing the issue of AI-generated inaccuracies, known as hallucinations. Used advanced techniques to improve factual reliability, including better information retrieval and response validation, ensuring credible and trustworthy outputs.
   links:
     code:
