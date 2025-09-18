@@ -5,7 +5,7 @@
   <tr>
     <th>August 2025</th>
     <td>Started my Masters in Machine Learning degree at <a href="https://www.cmu.edu/">Carnegie Mellon University</a></td>
-  </tr>Mrs. Charusheela Dange Award 
+  </tr>
   <tr>
     <th>August 2025</th>
     <td>Graduated from IIT Bombay with a BTech in Engineering Physics with double minors in Computer Science and AI/Data Science. Also received the Mrs. Charusheela Dange Award for securing 3rd place in department</td>

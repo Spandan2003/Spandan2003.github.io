@@ -11,7 +11,58 @@ navpos: 3
 <br>
 <div class="courses">
     <p class="courses-text">
-      <strong>Statistical ML and Data Mining</strong> | <i>by Prof. Asim Tewari, IITB</i><br/>
+      <strong>DS203: Programming for Data Science</strong> | <i>by Dr. Vinay Kulkarni</i><br/>
+    <div class="courses-bubble-with-date">
+      <h6>January '25 - April '25</h6>
+    </div>  
+    <ul>
+        <li>Probability and statistics fundamentals</li>
+        <li>Data exploration and visualization</li>
+        <li>Regression and supervised learning</li>
+        <li>Introduction to deep learning</li>
+        <li>Databases, cloud services, and parallel processing</li>
+    </ul>
+    </p>
+    <br>
+</div>
+
+<div class="courses">
+    <p class="courses-text">
+      <strong>CS768: Learning with Graphs</strong> | <i>by Prof. Abir De</i><br/>
+    <div class="courses-bubble-with-date">
+      <h6>January '25 - April '25</h6>
+    </div>  
+    <ul>
+        <li>Network science and generative graph models</li>
+        <li>Link prediction and diffusion processes</li>
+        <li>Representation learning on graphs</li>
+        <li>Graph neural networks</li>
+        <li>Deep generative models for graphs</li>
+    </ul>
+    </p>
+    <br>
+</div>
+
+<div class="courses">
+    <p class="courses-text">
+      <strong>IE616: Decision Analysis and Game Theory</strong> | <i>by Prof. Veeraruna Kavitha</i><br/>
+    <div class="courses-bubble-with-date">
+      <h6>January '25 - April '25</h6>
+    </div>  
+    <ul>
+        <li>Decision making under risk and uncertainty</li>
+        <li>Utility theory and Bayesian inference</li>
+        <li>Dynamic programming and optimization</li>
+        <li>Classical and modern game theory</li>
+        <li>Nash equilibrium and evolutionary models</li>
+    </ul>
+    </p>
+    <br>
+</div>
+
+<div class="courses">
+    <p class="courses-text">
+      <strong>ME781: Statistical ML and Data Mining</strong> | <i>by Prof. Asim Tewari, IITB</i><br/>
     <div class="courses-bubble-with-date">
       <h6>August '24 - November '24</h6>
     </div>  
@@ -27,7 +78,7 @@ navpos: 3
 
 <div class="courses">
     <p class="courses-text">
-      <strong>Digital Image Processing</strong> | <i>by Prof. Ajit Rajwade, IITB</i><br/>
+      <strong>CS663: Digital Image Processing</strong> | <i>by Prof. Ajit Rajwade, IITB</i><br/>
     <div class="courses-bubble-with-date">
       <h6>August '24 - November '24</h6>
     </div>  
@@ -44,7 +95,7 @@ navpos: 3
 
 <div class="courses">
     <p class="courses-text">
-      <strong>Operating Systems</strong> | <i>by Prof. Mythili Vutukuru, IITB</i><br/>
+      <strong>CS347: Operating Systems</strong> | <i>by Prof. Mythili Vutukuru, IITB</i><br/>
     <div class="courses-bubble-with-date">
       <h6>August '24 - November '24</h6>
     </div>  
@@ -61,7 +112,7 @@ navpos: 3
 
 <div class="courses">
     <p class="courses-text">
-      <strong>ML in Remote Sensing</strong> | <i>by Prof. Biplab Banerjee, IITB</i><br/>
+      <strong>GNR638: ML in Remote Sensing</strong> | <i>by Prof. Biplab Banerjee, IITB</i><br/>
     <div class="courses-bubble-with-date">
       <h6>January '24 - April '24</h6>
     </div>  
@@ -78,7 +129,7 @@ navpos: 3
 
 <div class="courses">
     <p class="courses-text">
-      <strong>Optimization for ML</strong> | <i>by Prof. Ganesh Ramakrishnan, IITB</i><br/>
+      <strong>CS769: Optimization for ML</strong> | <i>by Prof. Ganesh Ramakrishnan, IITB</i><br/>
     <div class="courses-bubble-with-date">
       <h6>January '24 - April '24</h6>
     </div>  
@@ -94,7 +145,7 @@ navpos: 3
 
 <div class="courses">
     <p class="courses-text">
-      <strong>NLP, Speech and the Web</strong> | <i>by Prof. Pushpak Bhattacharyya, IITB</i><br/>
+      <strong>CS626: NLP, Speech and the Web</strong> | <i>by Prof. Pushpak Bhattacharyya, IITB</i><br/>
     <div class="courses-bubble-with-date">
       <h6>August '23 - November '23</h6>
     </div>  
@@ -110,7 +161,7 @@ navpos: 3
 
 <div class="courses">
     <p class="courses-text">
-      <strong>Introduction to ML</strong> | <i>by Prof. Abir De, IITB</i><br/>
+      <strong>CS419: Introduction to ML</strong> | <i>by Prof. Abir De, IITB</i><br/>
     <div class="courses-bubble-with-date">
       <h6>January '24 - April '24</h6>
     </div>  
@@ -125,7 +176,7 @@ navpos: 3
 
 <div class="courses">
     <p class="courses-text">
-      <strong>Design and Analysis of Algorithms</strong> | <i>by Prof. Abhiram Ranade, IITB</i><br/>
+      <strong>CS218: Design and Analysis of Algorithms</strong> | <i>by Prof. Abhiram Ranade, IITB</i><br/>
     <div class="courses-bubble-with-date">
       <h6>August '23 - November '23</h6>
     </div>  
