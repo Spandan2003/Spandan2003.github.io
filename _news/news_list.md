@@ -3,6 +3,10 @@
 
 <table>
   <tr>
+    <th>September 2025</th>
+    <td> Paper [<a href="https://arxiv.org/abs/2509.11619"> arxiv] got accepted at EMNLP 2025 Industry Track. </a></td>
+  </tr>
+  <tr>
     <th>August 2025</th>
     <td>Started my Masters in Machine Learning degree at <a href="https://www.cmu.edu/">Carnegie Mellon University</a></td>
   </tr>
